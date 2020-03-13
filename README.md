@@ -8,6 +8,7 @@ Having not used React before, and having only a basic understanding of javascrip
 
 ### How to build and run the application
 
+Before anything, You need to run "npm install" to install all of the Node modules into your local directory <br />
 In order to run the app locally, the easiest option is to move to the directory and run "npm start" this will start the app as is. <br />
 In order to run a more optimized version of the app, you'll want to run "npm run build" followed by "serve -s build" This will open the application in your default browser<br />
 

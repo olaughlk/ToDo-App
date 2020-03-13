@@ -1,4 +1,4 @@
-#ToDo App project for Rutherford Application
+# ToDo App project for Rutherford Application
 
 This project is designed as a basic ToDo application for creating editing ToDo list items.<br />
 
@@ -6,14 +6,14 @@ In order to create the application, I had to familiarize myself with the React e
 These services were difficult at first, especially interaction between the two. I spent a great deal of time struggling with the database as I confused the basic database with the firestore service. Once I figured out the error, I had a much easier time connecting to the service <br />
 Having not used React before, and having only a basic understanding of javascript as a whole, I spent a great deal of time researching the content. I initially disliked the language, however; as I gained more understanding of it, I realized it was an incredibly useful and functional language. As I researched content more specific to this project, specifically firebase integration, I realized how truly powerful the language was.
 
-###How to build and run the application
+### How to build and run the application
 
 In order to run the app locally, the easiest option is to move to the directory and run "npm start" this will start the app as is. <br />
 In order to run a more optimized version of the app, you'll want to run "npm run build" followed by "serve -s build" This will open the application in your default browser<br />
 
 Before doing any of this however, you'll need to add your API key to the "config.js" file in the src directory. The database is public so anybody can access it as of now, but it will be changed once the project has been reviewed. After that point, you'll need to create your own database to save data to. In the future I may add user log in, however you will still need to build it yourself for now.
 
-###Tools used
+### Tools used
 
 You will need the following tools installed to run:<br />
 Node.js<br />

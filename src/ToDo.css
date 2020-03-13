@@ -1,0 +1,40 @@
+.deleteButton{
+    border-radius: 4px;
+    border-color: lightcoral;
+    background: lightcoral;
+    height: 50px; 
+    width: 6%;
+    vertical-align: top;
+    margin-left: 2px;
+    margin-top: 1px;
+    
+}
+
+.editButton{
+    border-radius: 4px;
+    border-color: lightgoldenrodyellow;
+    background: lightgoldenrodyellow;
+    height: 50px; 
+    width: 6%;
+    vertical-align: top;
+    margin-left: 2px;
+    margin-top: 1px;
+    
+}
+
+.TodoArea{
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+.TodoBox{
+    height: 50px;
+    opacity: .75;
+    border-radius: 4px;
+    border-style: none;
+    background-color: white;
+    width: 43%;
+    margin-right: 2px;
+    font-size: 20px;
+    resize: none;
+    vertical-align: top;
+}
